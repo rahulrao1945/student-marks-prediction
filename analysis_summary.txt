@@ -1,0 +1,35 @@
+Total records: 100000
+
+Numeric fields:
+- age: count=100000, mean=17.593, median=18.000, sd=1.835, min=15.0, max=23.0
+- family_income: count=100000, mean=50012.919, median=49994.500, sd=19849.620, min=0.0, max=139021.0
+- study_time_hours_per_week: count=100000, mean=10.090, median=10.000, sd=4.824, min=0.0, max=30.8
+- absences: count=100000, mean=2.508, median=2.000, sd=2.961, min=0.0, max=34.0
+- health: count=100000, mean=2.998, median=3.000, sd=1.415, min=1.0, max=5.0
+- alcohol_weekend: count=100000, mean=2.131, median=2.000, sd=1.313, min=0.0, max=8.2
+- alcohol_weekday: count=100000, mean=0.696, median=0.600, sd=0.508, min=0.0, max=3.5
+- free_time: count=100000, mean=2.996, median=3.000, sd=1.416, min=1.0, max=5.0
+- failures: count=100000, mean=0.211, median=0.000, sd=0.552, min=0.0, max=3.0
+- past_grade_avg: count=100000, mean=68.326, median=68.700, sd=10.916, min=17.9, max=100.0
+- final_score: count=100000, mean=43.760, median=44.000, sd=11.174, min=0.0, max=88.0
+
+Categorical fields (top values):
+- gender:
+    Male: 33682 (33.68%)
+    Female: 33262 (33.26%)
+    Other: 33056 (33.06%)
+- parental_education:
+    bachelor: 30021 (30.02%)
+    secondary: 25165 (25.16%)
+    associate: 19793 (19.79%)
+    master: 15000 (15.00%)
+    primary: 4987 (4.99%)
+- extracurricular:
+    No: 59915 (59.91%)
+    Yes: 40085 (40.09%)
+- internet_access:
+    Yes: 85126 (85.13%)
+    No: 14874 (14.87%)
+- final_result:
+    Fail: 70625 (70.62%)
+    Pass: 29375 (29.38%)
